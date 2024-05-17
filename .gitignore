@@ -1,0 +1,5 @@
+*.env
+*.pickle
+*.txt
+*.xlsx
+*.csv
